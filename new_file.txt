@@ -1,1 +1,1 @@
-first text in new_file.txt
+Second text in new_file.txt
